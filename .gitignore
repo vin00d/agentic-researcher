@@ -36,7 +36,6 @@ wheels/
 # Logs
 *.log
 logs/
-chainlit.md 
 .chainlit/*
 
 **/.DS_Store
