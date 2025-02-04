@@ -8,9 +8,9 @@ pinned: false
 license: apache-2.0
 short_description: Agentic Research Assistant
 ---
-# Research Assistant
+# Agentic Research Assistant
 
-A powerful research assistant that combines Wikipedia, Reddit, and Semantic Scholar using LangGraph and Chainlit.
+An agentic research assistant that combines Wikipedia, Reddit, and Semantic Scholar using LangGraph and Chainlit.
 
 ## Project Structure
 
